@@ -1,7 +1,8 @@
-9 7 1
-1 3 2   
-2 9 7
-5 4 4
-2 13 7
-10 2 2
-2 5 4
+Istanbul Berlin 4 0 200
+Istanbul Atina 2 20 120
+Berlin Helsinki 6 10 250
+Berlin Paris 1 15 100
+Paris Helsinki 7 10 300
+Paris Atina 3 40 200
+Londra Paris 0 40 100
+Londra Atina 3 10 175

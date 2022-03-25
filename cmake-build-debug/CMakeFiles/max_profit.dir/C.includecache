@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/berdi/CLionProjects/max_profit/main.c
+C:/Users/berdi/CLionProjects/cityGraph/main.c
 stdio.h
 -
 stdlib.h
+-
+string.h
 -
 
