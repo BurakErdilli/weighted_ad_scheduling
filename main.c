@@ -32,7 +32,7 @@ int dosyadanOku(EDGE*);
 int sehirID(EDGE*, CITY*, int);
 GRAPH* createGraph(EDGE*, int);
 void printGraph(GRAPH*, int);
-//int ucusListele(EDGE *edges, int, int, int, int ,int[20][20], int, int);
+//int ucusListele(EDGE *edges, int, int, int, int ,int[20][20], int, int); //uncomment
 
 int ucusListele(EDGE *edges, int n, int k, int s_id, int d_id, int rapor[20][20], int x, int y){
 
